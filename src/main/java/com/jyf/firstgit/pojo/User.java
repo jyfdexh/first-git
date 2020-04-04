@@ -7,4 +7,5 @@ package com.jyf.firstgit.pojo;
 public class User {
 //    github改
 //clone后在idea中改
+    //从github得到更新
 }
