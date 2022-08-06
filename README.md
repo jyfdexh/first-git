@@ -5,7 +5,7 @@ nanno永远滴神！！！！
 开启clash代理：
 systemctl start clash
 
-执行以下命令，启动 VNC 服务：
+启动 VNC 可视化服务：
 
 sudo vncserver
 
