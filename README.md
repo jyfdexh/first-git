@@ -23,7 +23,7 @@ sudo vncserver -geometry 1920x1080 :1 #生成新的会话(分辨率！)
 使用 进入主机后的内置命令
 更新并重启青龙
 ql update                                                                                                
-启动tg-bot
+启动tg机器人
 ql bot                                                       
 检测青龙环境并修复
 ql check                                                     
