@@ -5,6 +5,8 @@
 
 tg.jyf.workers.dev
 
+https://tg.jyf.workers.dev/bot5461332764:AAHJpn6nALBFpUnVMsUA5VTXjdNUWmv1PIg/sendMessage?chat_id=1047773545&text=222
+
 nanno永远滴神！！！！
  (有关代理都来自https://www.youtube.com/watch?v=VOlWdNZAq_o&t=591s 他的/opt位置相当于我的/home/ubuntu,docker方法很简单没试过如果重装系统建议用docker方法翻墙)
 
