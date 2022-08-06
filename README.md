@@ -41,4 +41,6 @@ ql bot
 检测青龙环境并修复
 ql check                                                     
 
+## 错误
+Ubuntu使用apt-get就够用了。如果安装需要yum，这里没有解决repos的报错。以后的错误，以后再解决。
 
