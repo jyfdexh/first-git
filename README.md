@@ -2,7 +2,7 @@
 nanno永远滴神！！！！
 
 # 重启Ubuntu后          
-开启clash代理：  (有关代理都来自https://www.youtube.com/watch?v=VOlWdNZAq_o&t=591s 他的/opt位置相当于我的/home/ubuntu)
+开启clash代理：  (有关代理都来自https://www.youtube.com/watch?v=VOlWdNZAq_o&t=591s 他的/opt位置相当于我的/home/ubuntu,docker方法很简单没试过如果重装系统建议用docker方法翻墙)
 
 systemctl start clash    (关闭：systemctl stop clash)
 
