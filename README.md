@@ -3,6 +3,7 @@ nanno永远滴神！！！！
 
 # 重启Ubuntu后          
 开启clash代理：  (有关代理都来自https://www.youtube.com/watch?v=VOlWdNZAq_o&t=591s)
+
 systemctl start clash
 
 启动 VNC 可视化服务：
