@@ -8,10 +8,11 @@ nanno永远滴神！！！！
  (有关代理都来自https://www.youtube.com/watch?v=VOlWdNZAq_o&t=591s 他的/opt位置相当于我的/home/ubuntu,docker方法很简单没试过如果重装系统建议用docker方法翻墙)
 
 # 重启Ubuntu后          
-开启clash代理： 
+开启clash代理： (需在/home/ubuntu/clash目录下执行以下命令)
 
-systemctl start clash    (重启：systemctl restart clash 关闭：systemctl stop clash  开机自启没用过： systemctl enable clash  
-经过youtobe设置的快捷开启clash代理：proxy 关闭：unproxy)
+systemctl start clash    (重启：systemctl restart clash 关闭：systemctl stop clash  开机自启没用过： systemctl enable clash  ）
+
+（任意位置快捷执行：     经过youtobe设置的快捷开启clash代理：proxy 关闭：unproxy)
 
 启动 VNC 可视化服务：
 
