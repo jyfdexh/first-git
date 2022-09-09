@@ -10,7 +10,7 @@ nanno永远滴神！！！！
 # 重启Ubuntu后          
 开启clash代理： 
 
-systemctl start clash    (关闭：systemctl stop clash  开机自启没用过： systemctl enable clash )
+systemctl start clash    (关闭：systemctl stop clash  开机自启没用过： systemctl enable clash  经过youtobe设置的快捷开启clash代理：proxy 关闭：unproxy)
 
 启动 VNC 可视化服务：
 
