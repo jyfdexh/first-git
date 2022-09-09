@@ -16,7 +16,7 @@ systemctl start clash    (重启：systemctl restart clash 关闭：systemctl st
 
 （任意位置快捷执行：     经过youtobe设置的快捷开启clash代理：proxy 关闭：unproxy)
 
-修改clash订阅头部加上3行绑定可视化UI：
+修改clash订阅头部加上3行绑定可视化UI：  
 external-controller: '0.0.0.0:9090'  
 external-ui: /home/ubuntu/clash/ui  
 secret: '123456'
@@ -27,19 +27,15 @@ sudo vncserver
 
 执行以下命令，重启 vnc 桌面进程。
 
-sudo vncserver -kill :1 #杀掉原桌面进程，输入命令（其中的:1是桌面号）
-
-sudo vncserver -geometry 1920x1080 :1 #生成新的会话(分辨率！)
-
+sudo vncserver -kill :1 #杀掉原桌面进程，输入命令（其中的:1是桌面号）  
+sudo vncserver -geometry 1920x1080 :1 #生成新的会话(分辨率！)  
 开启xshell终端代理： proxy   
               关闭：unporxy
 
 ## 青龙命令
-先进入root身份   sudo su root
-
-再进入QL主机     docker exec -it QL bash
-
-使用 进入主机后的内置命令
+先进入root身份   sudo su root  
+再进入QL主机     docker exec -it QL bash  
+使用 进入主机后的内置命令  
 更新并重启青龙
 ql update                                                                                                
 启动tg机器人
