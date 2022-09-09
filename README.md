@@ -32,7 +32,8 @@ sudo vncserver -geometry 1920x1080 :1 #生成新的会话(分辨率！)
 
 ## 青龙命令
 先进入root身份   sudo su root  
-再进入QL主机     docker exec -it QL bash  
+### 再进入QL主机     docker exec -it QL bash  
+### ls:  再进入data才是新版青龙真正映射的位置------cd script 脚本配置位置
 使用 进入主机后的内置命令  
 更新并重启青龙
 ql update                                                                                                
