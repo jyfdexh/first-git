@@ -10,7 +10,8 @@ nanno永远滴神！！！！
 # 重启Ubuntu后          
 开启clash代理： (需在/home/ubuntu/clash目录下执行以下命令)
 
-systemctl start clash    (重启：systemctl restart clash 关闭：systemctl stop clash  开机自启没用过： systemctl enable clash  ）
+systemctl start clash    (重启：systemctl restart clash 关闭：systemctl stop clash 查看代理状态：systemctl status clash
+ 开机自启没用过： systemctl enable clash  ）
 
 （任意位置快捷执行：     经过youtobe设置的快捷开启clash代理：proxy 关闭：unproxy)
 
