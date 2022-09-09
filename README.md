@@ -17,8 +17,8 @@ systemctl start clash    (重启：systemctl restart clash 关闭：systemctl st
 （任意位置快捷执行：     经过youtobe设置的快捷开启clash代理：proxy 关闭：unproxy)
 
 修改clash订阅头部加上3行绑定可视化UI：
-external-controller: '0.0.0.0:9090'
-external-ui: /home/ubuntu/clash/ui
+external-controller: '0.0.0.0:9090'  
+external-ui: /home/ubuntu/clash/ui  
 secret: '123456'
 
 ## 启动 VNC 可视化服务：
