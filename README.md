@@ -16,17 +16,15 @@ systemctl start clash    (重启：systemctl restart clash 关闭：systemctl st
 
 （任意位置快捷执行：     经过youtobe设置的快捷开启clash代理：proxy 关闭：unproxy)
 
-修改clash订阅头部加上3行绑定可视化UI：  
+修改clash订阅：复制CFW的内容到Ubuntu的Clash-jiedian.yaml，并在头部加上3行绑定可视化UI：  
 external-controller: '0.0.0.0:9090'  
 external-ui: /home/ubuntu/clash/ui  
 secret: '123456'
 
 ## 启动 VNC 可视化服务：
 
-sudo vncserver
-
-执行以下命令，重启 vnc 桌面进程。
-
+sudo vncserver  
+执行以下命令，重启 vnc 桌面进程。  
 sudo vncserver -kill :1 #杀掉原桌面进程，输入命令（其中的:1是桌面号）  
 sudo vncserver -geometry 1920x1080 :1 #生成新的会话(分辨率！)  
 开启xshell终端代理： proxy   
