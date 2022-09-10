@@ -41,6 +41,7 @@ ql update
 ql bot                                                       
 检测青龙环境并修复
 ql check                                                     
+![image](https://user-images.githubusercontent.com/60847489/189470126-73755ac5-6a6d-4fe0-90b0-5f387e1f287b.png)
 
 ## 错误
 Ubuntu使用apt-get就够用了。如果安装需要yum，这里没有解决repos的报错。以后的错误，以后再解决。
