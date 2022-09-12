@@ -41,6 +41,7 @@ ql update
 ql bot                                                       
 检测青龙环境并修复
 ql check                                                     
+【经验分享】创建docker容器后修改挂载目录的方法https://segmentfault.com/a/1190000040899948  
 ![image](https://user-images.githubusercontent.com/60847489/189470126-73755ac5-6a6d-4fe0-90b0-5f387e1f287b.png)
 
 ## 错误
